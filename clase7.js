@@ -1,0 +1,1 @@
+console.log('hola soy la clase 7');
